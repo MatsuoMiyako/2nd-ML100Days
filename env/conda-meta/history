@@ -1,0 +1,6 @@
+==> 2020-10-04 17:46:21 <==
+# cmd: C:\Users\YEU\Anaconda3\Scripts\conda create --prefix=C:\Users\YEU\Documents\GithubTest\env
+==> 2020-10-04 17:47:44 <==
+# cmd: C:\Users\YEU\Anaconda3\Scripts\conda install git
++defaults::git-2.23.0-h6bb4b03_0
+# update specs: ['git']
